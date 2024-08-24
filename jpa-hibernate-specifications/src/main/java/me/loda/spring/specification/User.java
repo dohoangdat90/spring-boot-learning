@@ -19,7 +19,7 @@ import lombok.Data;
 /**
  * Copyright 2019 {@author Loda} (https://loda.me).
  * This project is licensed under the MIT license.
- *
+ *something right here
  * @since 12/10/2019
  * Github: https://github.com/loda-kun
  */
